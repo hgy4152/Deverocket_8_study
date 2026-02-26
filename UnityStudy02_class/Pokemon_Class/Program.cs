@@ -23,3 +23,6 @@ poke5.ShowInfo();
 
 
 Console.WriteLine($"총 포켓몬 수: {Pokemon.totalCount}");
+
+
+Pokemon.Battle(poke1, poke3);
