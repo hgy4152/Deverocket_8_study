@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-class Champion
+class Champion : Unit
 {
 
 }

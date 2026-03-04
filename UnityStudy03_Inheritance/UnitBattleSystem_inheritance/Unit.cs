@@ -2,9 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace UnitBattleSystem_inheritance
+class Unit
 {
-    internal class Unit
-    {
-    }
+
 }
