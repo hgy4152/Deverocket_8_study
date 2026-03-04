@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../UnitBattleSystem_inheritance/UnitBattleSystem_inheritance.csproj" />
+  <Project Path="UnitBattleSystem_No_inheritance.csproj" />
+</Solution>
